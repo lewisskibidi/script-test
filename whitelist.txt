@@ -1,1 +1,4 @@
 local whitelist = {"SIGMA"}
+for i, v in pairs(whitelist) do
+    print(v)
+end
